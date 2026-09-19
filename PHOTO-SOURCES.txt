@@ -1,0 +1,20 @@
+PHOTO SOURCES — hs-014-elect Elect Landscape (Wave 3 2026-09-19 PT)
+Commercial-ok Unsplash/Pexels. Verified by opening each file. No owner stock face. No indoor potting. No luxury remodel kitchen.
+
+hero-site.jpg — Pexels 210617 — Suburban home + lawn (hero)
+services-trade.jpg — Unsplash photo-1558904541-efa843a96f01 — Lawn/sod services
+job-land-after.jpg — Pexels 280222 — Manicured residential lawn after
+job-land-before.jpg — hs-002-jf / Unsplash dry yard before
+job-hard-after.jpg — Unsplash photo-1600585154340-be6161a56a0c — Patio hardscape after
+job-hard-before.jpg — hs-002-jf hardscape before
+job-yard-after.jpg — wave2/land-beds — Outdoor succulent/rock bed (verified outdoor)
+job-yard-before.jpg — Unsplash photo-1591857177580 — Outdoor raised bed before tidy
+people-crew.jpg — wave2/crew-outdoor — Outdoor crew NOT owner face
+people-marek.jpg — Pexels 589 lawnmower — Jobsite tools NOT owner face
+people-tom.jpg — Unsplash photo-1504148455328 — Drill/tools NOT owner face
+coverage-house.jpg — Pexels 280222 — Residential exterior with lawn
+
+CORRECTIONS 2026-09-19 PT (visual verify):
+- job-*-before → Pexels 259957 dry/seeded residential lawn (not indoor potting)
+- job-hard-before → Pexels 2219024 outdoor concrete pad pour
+- people-crew → RJP residential crew painting (not high-rise rebar)
