@@ -57,7 +57,7 @@
       apply: function () {
         if (heroLede) {
           heroLede.textContent =
-            'Landscaping, outdoor maintenance, and hardscape support. Across Corona and the Inland Empire. Gary looks at the job first and puts the price in writing.';
+            'Landscaping, outdoor maintenance, and hardscape support in Corona. Gary looks at the job first and puts the price in writing.';
         }
       }
     },
